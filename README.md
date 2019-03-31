@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://github.com/wayou/mkreadme"><img src="https://dummyimage.com/200x200/ffffff/aaaaaa&text=logo" alt="Markdownify" width="200"></a>
+  <a href="http://github.com/wayou/readme-template"><img src="https://dummyimage.com/200x200/ffffff/aaaaaa&text=logo" alt="Markdownify" width="200"></a>
   <br>
   PROJECT NAME
   <br>
@@ -10,11 +10,11 @@
 <h4 align="center">sub title goes here.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/mkreadme">
-    <img src="https://badge.fury.io/js/mkreadme.svg"
+  <a href="https://badge.fury.io/js/readme-template">
+    <img src="https://badge.fury.io/js/readme-template.svg"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/wayou/mkreadme"><img src="https://badges.gitter.im/wayou/mkreadme.svg"></a>
+  <a href="https://gitter.im/wayou/readme-template"><img src="https://badges.gitter.im/wayou/readme-template.svg"></a>
   <a href="https://saythanks.io/to/amitmerchant1990">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
@@ -90,5 +90,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-
-[![FOSSA Status](https://app.fossa.io/api/projects/custom%2B7035%2Fgithub.com%2Fwayou%2Fmkreadme.svg?type=large)](https://app.fossa.io/projects/custom%2B7035%2Fgithub.com%2Fwayou%2Fmkreadme?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwayou%2Freadme-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwayou%2Freadme-template?ref=badge_large)
