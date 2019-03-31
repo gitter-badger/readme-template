@@ -32,7 +32,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://dummyimage.com/750x400/ffffff/aaaaaa&text=screenshot)
+![screenshot](https://dummyimage.com/1024x576/ffffff/aaaaaa&text=screenshot)
 
 ## Key Features
 
