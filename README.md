@@ -15,7 +15,7 @@
          alt="Gitter">
   </a>
   <a href="https://gitter.im/wayou/readme-template"><img src="https://badges.gitter.im/wayou/readme-template.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
+  <a href="https://saythanks.io/to/wayou">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
   <a href="https://www.paypal.me/AmitMerchant">
